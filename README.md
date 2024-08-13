@@ -6,7 +6,7 @@
 | **Email**    | mjrkosonghiji@gmail.com      |
 | **Telegram** | [@CryptoperCek](https://t.me/CryptoperCek) |
 | **Twitter**  | [@CryptoperLol](https://x.com/CryptoperLol) |
-| **Discord**  | CryptoperLol                  |
+| **Discord**  | @CryptoperLol                  |
 
 
   
