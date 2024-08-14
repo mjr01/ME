@@ -1,86 +1,87 @@
-## About Me
+<h2 align="left">About ME</h2>
 
-|     			|                    |
-|----------|-------------------------------|
-| **Alias**    | CryptoperLol                  |
-| **Telegram** | [@CryptoperCek](https://t.me/CryptoperCek) |
-| **Twitter**  | [@CryptoperLol](https://x.com/CryptoperLol) |
-| **Discord**  | CryptoperLol                  |
+###
+
+<img align="right" height="150" src="https://pbs.twimg.com/profile_images/1823754755409371141/p7U09hdD_400x400.jpg"  />
+
+###
+
+<div align="left">
+  <a href="https://x.com/CryptoperLol" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/CryptoperCek" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://discord.com/users/CryptoperLol" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">I'm CryptoperLol, a crypto enthusiast with a keen interest in blockchain technology and an independent PoS validator. I actively participate in numerous testnets, ensuring they run seamlessly by tackling bugs, contributing to development, and providing support.  Always curious, always learning – I'm on a mission to help build the decentralized future!</p>
+
+###
 
 
-  
-    
-<h2> </h2>   
-<div style="text-align: center;">I’m a crypto enthusiast and independent PoS validator diving into the world of blockchain. I actively participate in several testnets, helping to keep them running smoothly, debugging issues, and contributing to development and support. Always learning and growing, I’m here for an exciting start in the blockchain space!</div>
+## Current Running
 
-<h2><strong>Current Nodes/Validators</strong></h2>
-<table width="350px" align="center">
-	<tbody>
-		<tr valign="top">
-			<td width="130px" align="center">
-				<span>
-					<strong>Symphony</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://testnet.ping.pub/symphony/staking/symphonyvaloper1jkywj45pfqqqfjuxkd5r0azrw0ktvdp25ht063" rel="nofollow">
-					<img src="https://i.ibb.co.com/v3WrnvX/147945585.jpg" alt="147945585" border="0">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Warden</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://testnet.warden.explorers.guru/validator/wardenvaloper1jkywj45pfqqqfjuxkd5r0azrw0ktvdp23c6mhz" rel="nofollow">
-					<img src="https://i.ibb.co.com/SV58x13/158038121.jpg" alt="158038121" border="0"> 
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Shardeum</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://explorer-atomium.shardeum.org/account/a1e6048897e0430418c157ea347dbfc1c8b1745c4d5edc486a4869536131e63f" rel="nofollow">
-					<img src="https://i.ibb.co.com/RbBGhqs/98940804.png" alt="98940804" border="0">
-				</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<h2>Finished Testnets</h2>
-
-<table width="350px" align="center">
-	<tbody>
-		<tr valign="top">
-			<td width="130px" align="center">
-				<span>
-					<strong>Aptos</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://aptosfoundation.org/" rel="nofollow">
-					<img src="https://i.ibb.co.com/MC7txpr/99841612.png" alt="99841612" border="0">
-				</a>
-			</td>
-			<td width="130px" align="center">
-				<span>
-					<strong>Quicksilver</strong>
-				</span>
-				<br>
-				<br>
-				<a href="https://quicksilver.zone/" rel="nofollow">
-					<img src="https://i.ibb.co.com/g4rF2vj/144680245.png" alt="144680245" border="0">
-				</a>
-			</td>
-		</tr>
-	</tbody>
+<table align="center">
+  <tr align="center">
+    <td width="33%">
+      <strong>Symphony</strong>
+      <br><br>
+      <a href="https://testnet.ping.pub/symphony/staking/symphonyvaloper1jkywj45pfqqqfjuxkd5r0azrw0ktvdp25ht063" rel="nofollow">
+        <img src="https://i.ibb.co.com/v3WrnvX/147945585.jpg" alt="Symphony Node" width="100px">
+      </a>
+    </td>
+    <td width="33%">
+      <strong>Warden</strong>
+      <br><br>
+      <a href="https://testnet.warden.explorers.guru/validator/wardenvaloper1jkywj45pfqqqfjuxkd5r0azrw0ktvdp23c6mhz" rel="nofollow">
+        <img src="https://i.ibb.co.com/SV58x13/158038121.jpg" alt="Warden Node" width="100px">
+      </a>
+    </td>
+    <td width="33%">
+      <strong>Shardeum</strong>
+      <br><br>
+      <a href="https://explorer-atomium.shardeum.org/account/a1e6048897e0430418c157ea347dbfc1c8b1745c4d5edc486a4869536131e63f" rel="nofollow">
+        <img src="https://i.ibb.co.com/RbBGhqs/98940804.png" alt="Shardeum Node" width="100px">
+      </a>
+    </td>
+  </tr>
 </table>
 
 
-## Monitoring Tool
+## Finished Testnets
 
-I use a suite of monitoring tools, including Grafana, Prometheus, and Alertmanager. These tools are essential for keeping a close eye on server performance and validator nodes. They help me track metrics, visualize data, and receive real-time alerts, ensuring that everything operates smoothly and efficiently.
+<table align="center">
+  <tr align="center">
+    <td width="50%">
+      <strong>Aptos</strong>
+      <br><br>
+      <a href="https://aptosfoundation.org/" rel="nofollow">
+        <img src="https://i.ibb.co.com/MC7txpr/99841612.png" alt="Aptos Testnet" width="100px">
+      </a>
+    </td>
+    <td width="50%">
+      <strong>Quicksilver</strong>
+      <br><br>
+      <a href="https://quicksilver.zone/" rel="nofollow">
+        <img src="https://i.ibb.co.com/g4rF2vj/144680245.png" alt="Quicksilver Testnet" width="100px">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+## Monitoring Tools
+
+To ensure smooth operations across my nodes and networks, I rely on a suite of advanced monitoring tools:
+
+- **Grafana**: Visualize metrics in real-time
+- **Prometheus**: Powerful monitoring and alerting system
+- **Alertmanager**: Stay ahead with instant alerts
+
+With these tools in hand, I ensure my validators run at peak performance, contributing to the health and security of the blockchain ecosystem!
