@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://pbs.twimg.com/profile_images/1823754755409371141/p7U09hdD_400x400.jpg"  />
-
-###
-
 <div align="left">
   <a href="https://x.com/CryptoperLol" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
@@ -23,7 +19,6 @@
 <p align="left">I'm CryptoperLol, a crypto enthusiast with a keen interest in blockchain technology and an independent PoS validator. I actively participate in numerous testnets, ensuring they run seamlessly by tackling bugs, contributing to development, and providing support.  Always curious, always learning – I'm on a mission to help build the decentralized future!</p>
 
 ###
-
 
 ## Current Running
 
