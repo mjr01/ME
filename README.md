@@ -24,30 +24,36 @@
 
 <table align="center">
   <tr align="center">
-    <td width="33%">
+    <td width="25%">
       <strong>Symphony</strong>
       <br><br>
       <a href="https://testnet.ping.pub/symphony/staking/symphonyvaloper1jkywj45pfqqqfjuxkd5r0azrw0ktvdp25ht063" rel="nofollow">
-        <img src="https://i.ibb.co.com/v3WrnvX/147945585.jpg" alt="Symphony Node" width="100px">
+        <img src="https://i.ibb.co/v3WrnvX/147945585.jpg" alt="Symphony Node" width="100px">
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <strong>Warden</strong>
       <br><br>
       <a href="https://testnet.warden.explorers.guru/validator/wardenvaloper1jkywj45pfqqqfjuxkd5r0azrw0ktvdp23c6mhz" rel="nofollow">
-        <img src="https://i.ibb.co.com/SV58x13/158038121.jpg" alt="Warden Node" width="100px">
+        <img src="https://i.ibb.co/SV58x13/158038121.jpg" alt="Warden Node" width="100px">
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
       <strong>Shardeum</strong>
       <br><br>
       <a href="https://explorer-atomium.shardeum.org/account/a1e6048897e0430418c157ea347dbfc1c8b1745c4d5edc486a4869536131e63f" rel="nofollow">
-        <img src="https://i.ibb.co.com/RbBGhqs/98940804.png" alt="Shardeum Node" width="100px">
+        <img src="https://i.ibb.co/RbBGhqs/98940804.png" alt="Shardeum Node" width="100px">
+      </a>
+    </td>
+    <td width="25%">
+      <strong>PWR Chain</strong>
+      <br><br>
+      <a href="https://explorer.pwrlabs.io/address/0x4B87B5FDe194Fb252569f476edc1Aae985872947" rel="nofollow">
+        <img src="https://i.ibb.co/NyQT1gp/147994837.jpg" alt="PWR Chain Node" width="100px">
       </a>
     </td>
   </tr>
 </table>
-
 
 ## Finished Testnets
 
