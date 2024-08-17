@@ -84,5 +84,6 @@ To ensure smooth operations across my nodes and networks, I rely on a suite of a
 - **Grafana**: Visualize metrics in real-time
 - **Prometheus**: Powerful monitoring and alerting system
 - **Alertmanager**: Stay ahead with instant alerts
+- **Tenderduty**: To monitor Tendermint(Cosmos) chains
 
 With these tools in hand, I ensure my validators run at peak performance, contributing to the health and security of the blockchain ecosystem!
